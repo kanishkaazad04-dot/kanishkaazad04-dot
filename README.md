@@ -6,7 +6,7 @@
 - 🌱 I've completed internships in **Web Development** and **Artificial Intelligence**
 - 💡 Interested in **Fraud Detection, Predictive Modeling, and ML-powered Web Apps**
 - 📜 Currently pursuing another certification — more coming soon!
-- 📫 How to reach me: **[add your email or LinkedIn here]**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kanishka-189ab4416) • kanishkaazad04@gmail.com
 
 ---
 
