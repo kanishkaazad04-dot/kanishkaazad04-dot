@@ -19,7 +19,7 @@ An end-to-end ML pipeline built on the PaySim dataset to detect fraudulent digit
 - Compared 4 classification models; **Random Forest** selected as best (98% precision, 99.5% recall on fraud class)
 - Deployed as a **live interactive web app** for real-time transaction risk scoring
 
-🔗 [View Repository](#) &nbsp;|&nbsp; 🌐 [Live Web App](https://verdant-daifuku-b12b74.netlify.app/)
+🔗 [View Repository](https://github.com/kanishkaazad04-dot/UPI-Fraud-Detection) &nbsp;|&nbsp; 🌐 [Live Web App](https://verdant-daifuku-b12b74.netlify.app/)
 
 ---
 
